@@ -19,5 +19,12 @@ pip install Pydicom
 ```python
 python app.py
 ```
-![Image-1 home page](/docs/image1.jpg)
+**First page**<br />
+![Image-1 home page](/docs/image1.jpg)<br />
+**choose directory containing .dcm files**<br />
+![Image-2 File Explorer](/docs/image2.jpg)<br />
+**Scroll for Dicom Images**<br />
+![Image-3 CT-scan dicom-images](/docs/image3.jpg)<br />
+
+## Note
 **The above code is tested and working in windows-10 pro.**
