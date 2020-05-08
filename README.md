@@ -19,5 +19,5 @@ pip install Pydicom
 ```python
 python app.py
 ```
-![Image-1 home page]("/docs/image1")
+![Image-1 home page](/docs/image1.jpg)
 **The above code is tested and working in windows-10 pro.**
